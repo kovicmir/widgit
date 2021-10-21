@@ -1,1 +1,1 @@
-ECHO is on.
+BETTER ECHO is on.
